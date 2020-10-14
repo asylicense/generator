@@ -1,0 +1,1 @@
+# define IDI_GENERATOR_ICON				101
